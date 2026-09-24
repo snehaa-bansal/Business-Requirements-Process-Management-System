@@ -1,0 +1,9 @@
+user_id,user_name,password,role,department
+EMP001,Rahul Sharma,emp123,Employee,CSE
+EMP002,Priya Mehta,emp123,Employee,HR
+EMP003,Arjun Kapoor,emp123,Employee,Finance
+EMP004,Neha Singh,emp123,Employee,CSE
+MGR001,Anita Verma,mgr123,Manager,CSE
+MGR002,Raj Malhotra,mgr123,Manager,Finance
+HR001,Neelam Kapoor,hr123,HR,HR
+ADM001,Rohit Mehta,admin123,Management,Management

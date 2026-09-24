@@ -1,0 +1,13 @@
+request_id,employee_id,employee_name,department,leave_type,start_date,end_date,reason,status,manager
+LR001,EMP001,Rahul Sharma,CSE,Casual Leave,2026-10-05,2026-10-06,Personal work,Approved,Anita Verma
+LR002,EMP002,Priya Mehta,HR,Sick Leave,2026-09-28,2026-09-29,Not feeling well,Approved,Raj Malhotra
+LR003,EMP003,Arjun Kapoor,Finance,Casual Leave,2026-10-10,2026-10-11,Family function,Rejected,Anita Verma
+LR004,EMP004,Neha Singh,CSE,Annual Leave,2026-10-15,2026-10-18,Vacation,Approved,Anita Verma
+LR005,EMP005,Karan Gupta,Marketing,Sick Leave,2026-09-30,2026-10-01,Medical appointment,Approved,Raj Malhotra
+LR006,EMP006,Riya Sharma,Finance,Casual Leave,2026-10-20,2026-10-21,Personal work,Rejected,Raj Malhotra
+LR007,EMP007,Aman Verma,CSE,Annual Leave,2026-11-01,2026-11-03,Family trip,Approved,Anita Verma
+LR008,EMP008,Simran Kaur,HR,Casual Leave,2026-10-08,2026-10-09,Personal work,Rejected,Raj Malhotra
+LR009,EMP009,Varun Mehta,Marketing,Annual Leave,2026-10-25,2026-10-28,Vacation,Approved,Raj Malhotra
+LR010,EMP010,Mehak Gupta,CSE,Sick Leave,2026-09-27,2026-09-27,Health issue,Approved,Anita Verma
+LR011,EMPO11,Sneha Bansal,CSE,Casual Leave,2026-09-24,2026-09-25,Personal work,Approved,Anita Verma
+LR012,EMP011,Sneha,CSE,Emergency Leave,2026-09-24,2026-09-25,work,Rejected,Anita Verma
